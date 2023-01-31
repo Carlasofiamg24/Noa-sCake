@@ -1,0 +1,32 @@
+.card_anuncio{
+    background: #fff;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.4);
+    cursor: default;
+    transition: all 400ms ease;
+}
+
+.card_anuncio:hover{
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5%);
+}
+
+.bg_anuncio{
+    background-color:#ff5aa4;
+};
+
+.bg_anuncio h5{
+    font-size: 18px;
+};
+
+.btn_pink{
+    background-color:#ff5aa4; 
+    color: #ff5aa4
+};
+
+li{
+    list-style-type: none;
+};
+
+.informacion{
+    display: inline-block;
+};
